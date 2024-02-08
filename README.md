@@ -6,7 +6,7 @@ The CodeGEO Workshops have been created from a group of people at the Physical G
 
 1. Install [Anaconda](https://www.anaconda.com/download/), or your preferred conda distribution.
 
-2. Download the *environment.yml* file from the Coding/ML group's @General channel. 
+2. Download the *environment.yml* file from this repository. 
 
 3. Create the conda environment from the Anaconda prompt at your file’s location.
 ```bash
