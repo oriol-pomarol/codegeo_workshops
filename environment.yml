@@ -1,0 +1,11 @@
+name: codegeo_workshop
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - ipykernel
+  - matplotlib
+  - python
+  - pandas
+  - scikit-learn
