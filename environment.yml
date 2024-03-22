@@ -9,3 +9,4 @@ dependencies:
   - python
   - pandas
   - scikit-learn
+  - shap
