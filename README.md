@@ -1,6 +1,6 @@
 # CodeGEO Workshops: Practical Insights on ML for Geoscientists
 
-The CodeGEO Workshops have been created by the DPG Coding/ML group (Department of Physical Geography, Utrecht University), to provide an easy way into machine learning for our colleagues and fellow geoscientists everywhere. 
+The CodeGEO Workshops have been created by the DPG Coding/ML group (Department of Physical Geography, Utrecht University), to provide an easy way into machine learning for our colleagues and fellow geoscientists elsewhere. 
 
 ## Table of Contents
 
