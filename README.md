@@ -46,6 +46,7 @@ This repository is being actively developed by the DPG Coding/ML group. Here is 
 - Oriol Pomarol Moya - https://www.uu.nl/medewerkers/opomarolmoya
 - Bram Droppers - https://www.uu.nl/medewerkers/BDroppers
 - Jignesh Shah - https://www.uu.nl/medewerkers/JShah
+- Sebastián Garzón Alvarado - https://www.uu.nl/medewerkers/JSGarzonAlvarado
 
 ## Contact
 
