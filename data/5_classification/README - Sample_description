@@ -1,9 +1,0 @@
-# 🗂️ Modified Data from DINOloket
-
-The data used in this repository (sample_descriptions.csv) has been preprocessed and modified from its original form. 📍 The original dataset can be freely accessed at [DINOloket](https://www.dinoloket.nl/en/subsurface-data), the official platform of the Geological Survey of the Netherlands.
-
-⚠️ Disclaimer: TNO-GSN is not responsible for this processed dataset. Always refer to the original dataset for accuracy.
-
-🔄 Note: The data on DINOloket is regularly updated, and additional information may be available that is not included in this preprocessed version.
-
-📑 For further information or access to the unmodified dataset, please visit the [original source](https://www.dinoloket.nl/en/subsurface-data)
