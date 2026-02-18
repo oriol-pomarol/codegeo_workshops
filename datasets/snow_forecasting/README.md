@@ -13,6 +13,11 @@ If you use these prepared data, please cite the original ESM-SnowMIP dataset and
 >
 > Menard, Cecile; Essery, Richard; Barr, Alan; Bartlett, Paul; Derry, Jeff; Dumont, Marie; Fierz, Charles; Kim, Hyungjun; Kontu, Anna; Lejeune, Yves; Marks, Danny; Niwano, Masashi; Raleigh, Mark; Wang, Libo; Wever, Nander (2019): Meteorological and evaluation datasets for snow modelling at 10 reference sites: description of in situ and bias-corrected reanalysis data. Earth System Science Data, 11(2), 865-880. https://doi.org/10.5194/essd-11-865-2019
 
+## 📝 License
+
+This dataset is licensed under the [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) license.  
+You are free to share and adapt the data, provided you give appropriate credit to the original authors.
+
 ## 🛠️ Modifications
 
 - **Daily aggregation:** All in-situ `meteo` and `swe` variables were aggregated to daily frequency (date-based daily summaries). The aggregation methods include taking the average of the hourly values (avg), the average only over the daytime hours (dav), the maximum hourly value (max) and the integration of the positive values over time (int).

@@ -1,4 +1,4 @@
-name: codegeo_workshop
+name: codegeo_workshops
 channels:
   - conda-forge
   - defaults
@@ -10,3 +10,6 @@ dependencies:
   - pandas
   - scikit-learn
   - shap
+  - pip
+  - pip:
+      - tensorflow
