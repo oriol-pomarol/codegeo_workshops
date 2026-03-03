@@ -20,8 +20,8 @@ You are free to share and adapt the data, provided you give appropriate credit t
 
 ## 🛠️ Modifications
 
-- **Daily aggregation:** All in-situ `meteo` and `swe` variables were aggregated to daily frequency (date-based daily summaries). The aggregation methods include taking the average of the hourly values (avg), the average only over the daytime hours (dav), the maximum hourly value (max) and the integration of the positive values over time (int).
-- **Subsetted:** Only in-situ `meteo` and `swe` variables are retained; other variables (including non-insitu and model/reanalysis fields) were removed for this packaged subset.
+- **Daily aggregation:** All in-situ meteorological variables were aggregated to daily frequency by taking the average of the hourly values from 12:00 LT on the day before to 11:00 LT on the reported date. The snow water equivalent values were sampled at 12:00 LT.
+- **Subsetted:** Besides the observed SWE at each station (obs_swe), only a subset of in-situ meteorological variables are reported, particularly the temperature (Tair), snowfall (Snowf), rainfall (Rainf) long-wave and short-wave radiations (LWdown and SWdown), humidity (Qair) and wind speed (Wind). Other variables, including model/reanalysis data, were excluded from this dataset.
 
 
 ## 📝 Notes
