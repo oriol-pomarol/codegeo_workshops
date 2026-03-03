@@ -13,6 +13,7 @@ This folder contains images used throughout the CodeGEO Workshops repository. To
 | hp_tuning_chatgpt.png   | Created by workshop  | CodeGEO Team           | CC BY 4.0                           |                                             |
 | nn_prediction.jpg                     | Created by workshop                  | CodeGEO Team                    | CC BY 4.0                                 |                                          |
 | nn_structure.jpg                     | Created by workshop                  | CodeGEO Team                    | CC BY 4.0                                 |                                          |
+| reynolds_mountain_snow.jpg           | Flickr                               | Troy Smith                      | CC BY-NC-ND 2.0                           | Link: https://www.flickr.com/photos/high_trails/9221462850/in/photolist-f3SpCN-LfbYEE-a9pAGJ-zt6MEW-qQrWQS-279CaSY-8EkjZg-qQxUvt-MM8q92-cUFgLj-YRWU9v-279uiiW-a6LbvD-Ar7zW4-VYUQ8q-a9n21F-paav4U-6PFomw-6PGVxC-qhstLi-6PFpYJ-6PBgxp-6PGW5h-cLCfyh-nwMZi3-nfgPLB-6PBq22-fY7RtA-nfgU3W-6PG2TQ-nfgZ3V-nwLGd4-wWsqdA-6PG227-22L4b61-6PCXfa-21J2jSf-Ar7dd4-nwEG6n-nyrvnR-eM2onv-ahbEeb-nfbaTy-6PBXFn-wXJofP-nwLCkz-nyxt8P-6PFpPm-nuHQH9-nfh2Mb                     |
 
 ---
 
